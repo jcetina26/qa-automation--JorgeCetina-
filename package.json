@@ -1,0 +1,25 @@
+{
+  "name": "qa-automation--jorgecetina-",
+  "version": "1.0.0",
+  "description": "Nombre: Jorge Cetina\r Expextativa: Adquirir y mejorar conceptos de QA testing automatizado\r Sobre mi: Me gusta dibujar, tocar la guitarra y estoy aprendiendo a tatuar",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcetina26/qa-automation--JorgeCetina-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jcetina26/qa-automation--JorgeCetina-/issues"
+  },
+  "homepage": "https://github.com/jcetina26/qa-automation--JorgeCetina-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
